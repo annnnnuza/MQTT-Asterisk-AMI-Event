@@ -13,4 +13,4 @@ and run python script in another terminal
 
 then dial any call using a softphone.
 
-![alt text](https://github.com/annnnnuza/MQTT-Asterisk-AMI-Event/Screenshot.png?raw=true)
+![alt text](https://github.com/annnnnuza/MQTT-Asterisk-AMI-Event/blob/main/Screenshot.png?raw=true)
