@@ -3,10 +3,12 @@ Simple Asterisk AMI Event publisher to MQTT using Python
 
 Here is the example python code for sending AMI ringing events to MQTT.
 Mainly two Python libraries are used.
-paho.mqtt.client
+
+paho.mqtt.client and
 asterisk.ami
 
 For the testing run in one terminal 
+
 mosquitto_sub -h localhost -t asterisk/event
 
 and run python script in another terminal
